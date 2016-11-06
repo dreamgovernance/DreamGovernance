@@ -1,0 +1,8 @@
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.Interfaces\bin\Debug\DG.ContractManagement.Interfaces.dll
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.Interfaces\bin\Debug\DG.ContractManagement.Interfaces.pdb
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.Interfaces\obj\Debug\DG.ContractManagement.Interfaces.dll
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.Interfaces\obj\Debug\DG.ContractManagement.Interfaces.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.Interfaces\bin\Debug\DG.ContractManagement.Interfaces.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.Interfaces\bin\Debug\DG.ContractManagement.Interfaces.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.Interfaces\obj\Debug\DG.ContractManagement.Interfaces.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.Interfaces\obj\Debug\DG.ContractManagement.Interfaces.pdb

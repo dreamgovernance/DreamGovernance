@@ -1,0 +1,4 @@
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.DataAccess\bin\Debug\DG.StatutoryCompliance.DataAccess.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.DataAccess\bin\Debug\DG.StatutoryCompliance.DataAccess.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.DataAccess\obj\Debug\DG.StatutoryCompliance.DataAccess.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.DataAccess\obj\Debug\DG.StatutoryCompliance.DataAccess.pdb

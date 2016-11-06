@@ -1,0 +1,8 @@
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Security\bin\Debug\DG.Infrastructure.Security.dll
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Security\bin\Debug\DG.Infrastructure.Security.pdb
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Security\obj\Debug\DG.Infrastructure.Security.dll
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Security\obj\Debug\DG.Infrastructure.Security.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Security\bin\Debug\DG.Infrastructure.Security.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Security\bin\Debug\DG.Infrastructure.Security.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Security\obj\Debug\DG.Infrastructure.Security.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Security\obj\Debug\DG.Infrastructure.Security.pdb

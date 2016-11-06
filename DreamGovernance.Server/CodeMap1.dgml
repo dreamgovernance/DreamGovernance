@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1)" Category="CodeSchema_Assembly" Bounds="-261.202852849284,56.7831782865323,193.23,25" CodeSchemaProperty_StrongName="DG.Infrastructure.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(e41949a0-c018-4798-a7c5-71593f658de7.OutputPath)" Group="Collapsed" Label="DG.Infrastructure.Core.dll" />
+    <Node Id="(@10)" Category="CodeSchema_Assembly" Bounds="-762.375169548674,-256.009454894782,264.403333333333,25.0000000000001" CodeSchemaProperty_StrongName="DG.ContractManagement.Interfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(bd027aee-6acd-48f0-b26d-998b8769b47f.OutputPath)" Group="Collapsed" Label="DG.ContractManagement.Interfaces.dll" />
+    <Node Id="(@11)" Category="CodeSchema_Assembly" Bounds="-419.24971829077,-423.72852765625,246.95,25" CodeSchemaProperty_StrongName="DG.StatutoryCompliance.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(d251d03d-7020-47ba-9258-4d8ae95193d9.OutputPath)" Group="Collapsed" Label="DG.StatutoryCompliance.Models.dll" />
+    <Node Id="(@12)" Category="CodeSchema_Assembly" Bounds="235.538256961483,-307.959419235863,216.206666666667,25" CodeSchemaProperty_StrongName="DG.InternalControl.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(4bae036b-ac02-44ba-9150-a5844e9b0372.OutputPath)" Group="Collapsed" Label="DG.InternalControl.Models.dll" UseManualLocation="True" />
+    <Node Id="(@13)" Category="CodeSchema_Assembly" Bounds="-81.4655859183053,-426.889273298363,205.35,25" CodeSchemaProperty_StrongName="DG.InternalAudit.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(ebe5bfa1-0d07-4cc6-a243-5ccfcb4db51e.OutputPath)" Group="Collapsed" Label="DG.InternalAudit.Models.dll" UseManualLocation="True" />
+    <Node Id="(@14)" Category="CodeSchema_Assembly" Bounds="-762.375169548674,-366.009654894782,252.276666666667,25" CodeSchemaProperty_StrongName="DG.ContractManagement.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(d7efc209-53a6-450f-aac6-50463d6a660c.OutputPath)" Group="Collapsed" Label="DG.ContractManagement.Models.dll" />
+    <Node Id="(@15)" Category="CodeSchema_Assembly" Bounds="-419.24971829077,-258.72822765625,267.783333333334,24.9999999999999" CodeSchemaProperty_StrongName="DG.StatutoryCompliance.DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(13a9cf66-1972-4efe-9b0d-b486de18241e.OutputPath)" Group="Collapsed" Label="DG.StatutoryCompliance.DataAccess.dll" />
+    <Node Id="(@16)" Category="CodeSchema_Assembly" Bounds="230.973598185099,-193.652919902121,237.04,25" CodeSchemaProperty_StrongName="DG.InternalControl.DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(0e6f9d79-0661-4e3b-8632-511d01de5a64.OutputPath)" Group="Collapsed" Label="DG.InternalControl.DataAccess.dll" />
+    <Node Id="(@17)" Category="CodeSchema_Assembly" Bounds="-76.6976532307839,-261.888973298363,226.183333333333,25" CodeSchemaProperty_StrongName="DG.InternalAudit.DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(0eefe2d2-6b70-40f7-8a5e-8bf33f6f8cb3.OutputPath)" Group="Collapsed" Label="DG.InternalAudit.DataAccess.dll" />
+    <Node Id="(@18)" Category="CodeSchema_Assembly" Bounds="-762.375169548674,-201.009354895382,273.11,25" CodeSchemaProperty_StrongName="DG.ContractManagement.DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(b498780f-f823-478d-9235-d616efc72538.OutputPath)" Group="Collapsed" Label="DG.ContractManagement.DataAccess.dll" />
+    <Node Id="(@19)" Category="CodeSchema_Assembly" Bounds="-419.24971829077,-368.72842765625,252.723333333333,25" CodeSchemaProperty_StrongName="DG.StatutoryCompliance.Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(ac04b6fa-d235-4334-92f1-4f649521601f.OutputPath)" Group="Collapsed" Label="DG.StatutoryCompliance.Business.dll" />
+    <Node Id="(@2)" Category="CodeSchema_Assembly" Bounds="-419.24971829077,-478.72862765625,226.453333333333,25" CodeSchemaProperty_StrongName="DG.StatutoryCompliance.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(8afbd76f-e773-4af6-8cef-57b21fb63e2a.OutputPath)" Group="Collapsed" Label="DG.StatutoryCompliance.API.dll">
+      <Category Ref="CodeMap_WebProject" />
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@20)" Category="CodeSchema_Assembly" Bounds="230.973598185099,-362.959519235863,221.98,24.9999999999999" CodeSchemaProperty_StrongName="DG.InternalControl.Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(64e73fec-fda5-425d-b29a-a59cdb270219.OutputPath)" Group="Collapsed" Label="DG.InternalControl.Business.dll" />
+    <Node Id="(@21)" Category="CodeSchema_Assembly" Bounds="-76.6976532307841,-371.889173298363,211.123333333333,25" CodeSchemaProperty_StrongName="DG.InternalAudit.Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(4857bc80-bcf4-4e51-b84c-cf62301ab93c.OutputPath)" Group="Collapsed" Label="DG.InternalAudit.Business.dll" />
+    <Node Id="(@22)" Category="CodeSchema_Assembly" Bounds="-762.375169546506,-311.009554894782,258.05,25" CodeSchemaProperty_StrongName="DG.ContractManagement.Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(e17229a4-acdc-49c9-8668-c0b48477a568.OutputPath)" Group="Collapsed" Label="DG.ContractManagement.Business.dll" />
+    <Node Id="(@23)" Category="CodeSchema_Assembly" Bounds="-261.202852849284,111.783178286532,210.256666666667,25" CodeSchemaProperty_StrongName="DG.Infrastructure.Security, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(42e80419-ad4b-4387-ae5e-1e4b986c20c1.OutputPath)" Group="Collapsed" Label="DG.Infrastructure.Security.dll" />
+    <Node Id="(@3)" Category="CodeSchema_Assembly" Bounds="230.973598185099,-417.959619235863,195.71,25" CodeSchemaProperty_StrongName="DG.InternalControl.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(a9d2d07e-4cd5-45fe-ac14-dbc616af8186.OutputPath)" Group="Collapsed" Label="DG.InternalControl.API.dll">
+      <Category Ref="CodeMap_WebProject" />
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@4)" Category="CodeSchema_Assembly" Bounds="-76.6976532307839,-481.889373298363,184.853333333333,25" CodeSchemaProperty_StrongName="DG.InternalAudit.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(969f7080-a641-4de8-9866-aa97a29d46a7.OutputPath)" Group="Collapsed" Label="DG.InternalAudit.API.dll">
+      <Category Ref="CodeMap_WebProject" />
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@5)" Category="CodeSchema_Assembly" Bounds="-762.375169548674,-421.009754894782,231.78,25" CodeSchemaProperty_StrongName="DG.ContractManagement.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(b421a0cc-baf7-4c42-9fa8-6fdb7abf25f5.OutputPath)" Group="Collapsed" Label="DG.ContractManagement.API.dll">
+      <Category Ref="CodeMap_WebProject" />
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="(@6)" Category="CodeSchema_Assembly" Bounds="-261.202852849284,166.783178286532,217.273333333333,25" CodeSchemaProperty_StrongName="DG.Infrastructure.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(90f952f9-188e-4b25-9efe-aa8a44232b7c.OutputPath)" Group="Collapsed" Label="DG.Infrastructure.Common.dll" />
+    <Node Id="(@7)" Category="CodeSchema_Assembly" Bounds="-419.24971829077,-313.72832765625,259.076666666667,25" CodeSchemaProperty_StrongName="DG.StatutoryCompliance.Interfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(a84cf108-4036-4ef3-9bee-8edaeac446f1.OutputPath)" Group="Collapsed" Label="DG.StatutoryCompliance.Interfaces.dll" />
+    <Node Id="(@8)" Category="CodeSchema_Assembly" Bounds="230.973598185098,-248.653019902121,228.333333333333,25" CodeSchemaProperty_StrongName="DG.InternalControl.Interfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(4b4f1768-e3f3-4b20-bae3-bb7fa6bcb8b6.OutputPath)" Group="Collapsed" Label="DG.InternalControl.Interfaces.dll" />
+    <Node Id="(@9)" Category="CodeSchema_Assembly" Bounds="-76.6976532307831,-316.889073298363,217.476666666667,25" CodeSchemaProperty_StrongName="DG.InternalAudit.Interfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(93b3c0b0-47a8-406e-a000-651600fb99cf.OutputPath)" Group="Collapsed" Label="DG.InternalAudit.Interfaces.dll" />
+    <Node Id="DG.ContractManagement{B1F38749-8645-4220-93A2-F3E614DDC28B}" Category="CodeMap_SolutionFolder" Bounds="-782.362291649587,-460.994608883646,313.11,305.000619999392" Group="Expanded" Label="DG.ContractManagement" UseManualLocation="True" />
+    <Node Id="DG.Infrastructure{11893C14-91FB-4AA7-AC42-9D76A1520853}" Category="CodeMap_SolutionFolder" Bounds="-281.202852849284,16.7829782865323,257.273333333333,195" Group="Expanded" Label="DG.Infrastructure" UseManualLocation="True" />
+    <Node Id="DG.InternalAudit{D310B57E-C4A6-45AD-B997-8C334082E610}" Category="CodeMap_SolutionFolder" Bounds="-101.465585918305,-521.889473298363,270.951266020855,305.0006" Group="Expanded" Label="DG.InternalAudit" UseManualLocation="True" />
+    <Node Id="DG.InternalControl{A8B78ABA-B97A-4F48-BD73-CB52FBB9280F}" Category="CodeMap_SolutionFolder" Bounds="210.973598185098,-457.959719235863,277.040000000001,309.306899333743" Group="Expanded" Label="DG.InternalControl" UseManualLocation="True" />
+    <Node Id="DG.StatutoryCompliance{6DAE4455-6973-4ADC-8AC7-73349CE0DB49}" Category="CodeMap_SolutionFolder" Bounds="-439.24971829077,-518.72872765625,307.783333333334,305.0006" Group="Expanded" Label="DG.StatutoryCompliance" UseManualLocation="True" />
+  </Nodes>
+  <Links>
+    <Link Source="DG.ContractManagement{B1F38749-8645-4220-93A2-F3E614DDC28B}" Target="(@10)" Category="Contains" FetchingParent="DG.ContractManagement{B1F38749-8645-4220-93A2-F3E614DDC28B}" />
+    <Link Source="DG.ContractManagement{B1F38749-8645-4220-93A2-F3E614DDC28B}" Target="(@14)" Category="Contains" FetchingParent="DG.ContractManagement{B1F38749-8645-4220-93A2-F3E614DDC28B}" />
+    <Link Source="DG.ContractManagement{B1F38749-8645-4220-93A2-F3E614DDC28B}" Target="(@18)" Category="Contains" FetchingParent="DG.ContractManagement{B1F38749-8645-4220-93A2-F3E614DDC28B}" />
+    <Link Source="DG.ContractManagement{B1F38749-8645-4220-93A2-F3E614DDC28B}" Target="(@22)" Category="Contains" FetchingParent="DG.ContractManagement{B1F38749-8645-4220-93A2-F3E614DDC28B}" />
+    <Link Source="DG.ContractManagement{B1F38749-8645-4220-93A2-F3E614DDC28B}" Target="(@5)" Category="Contains" FetchingParent="DG.ContractManagement{B1F38749-8645-4220-93A2-F3E614DDC28B}" />
+    <Link Source="DG.ContractManagement{B1F38749-8645-4220-93A2-F3E614DDC28B}" Target="DG.Infrastructure{11893C14-91FB-4AA7-AC42-9D76A1520853}" Bounds="-469.252291649587,-168.633462910891,200.836500694538,179.420401015885" />
+    <Link Source="DG.Infrastructure{11893C14-91FB-4AA7-AC42-9D76A1520853}" Target="(@1)" Category="Contains" FetchingParent="DG.Infrastructure{11893C14-91FB-4AA7-AC42-9D76A1520853}" />
+    <Link Source="DG.Infrastructure{11893C14-91FB-4AA7-AC42-9D76A1520853}" Target="(@23)" Category="Contains" FetchingParent="DG.Infrastructure{11893C14-91FB-4AA7-AC42-9D76A1520853}" />
+    <Link Source="DG.Infrastructure{11893C14-91FB-4AA7-AC42-9D76A1520853}" Target="(@6)" Category="Contains" FetchingParent="DG.Infrastructure{11893C14-91FB-4AA7-AC42-9D76A1520853}" />
+    <Link Source="DG.InternalAudit{D310B57E-C4A6-45AD-B997-8C334082E610}" Target="(@13)" Category="Contains" FetchingParent="DG.InternalAudit{D310B57E-C4A6-45AD-B997-8C334082E610}" />
+    <Link Source="DG.InternalAudit{D310B57E-C4A6-45AD-B997-8C334082E610}" Target="(@17)" Category="Contains" FetchingParent="DG.InternalAudit{D310B57E-C4A6-45AD-B997-8C334082E610}" />
+    <Link Source="DG.InternalAudit{D310B57E-C4A6-45AD-B997-8C334082E610}" Target="(@21)" Category="Contains" FetchingParent="DG.InternalAudit{D310B57E-C4A6-45AD-B997-8C334082E610}" />
+    <Link Source="DG.InternalAudit{D310B57E-C4A6-45AD-B997-8C334082E610}" Target="(@4)" Category="Contains" FetchingParent="DG.InternalAudit{D310B57E-C4A6-45AD-B997-8C334082E610}" />
+    <Link Source="DG.InternalAudit{D310B57E-C4A6-45AD-B997-8C334082E610}" Target="(@9)" Category="Contains" FetchingParent="DG.InternalAudit{D310B57E-C4A6-45AD-B997-8C334082E610}" />
+    <Link Source="DG.InternalAudit{D310B57E-C4A6-45AD-B997-8C334082E610}" Target="DG.Infrastructure{11893C14-91FB-4AA7-AC42-9D76A1520853}" Bounds="-111.716516353369,-216.888873298363,86.8996670570321,225.274935610871" />
+    <Link Source="DG.InternalControl{A8B78ABA-B97A-4F48-BD73-CB52FBB9280F}" Target="(@12)" Category="Contains" FetchingParent="DG.InternalControl{A8B78ABA-B97A-4F48-BD73-CB52FBB9280F}" />
+    <Link Source="DG.InternalControl{A8B78ABA-B97A-4F48-BD73-CB52FBB9280F}" Target="(@16)" Category="Contains" FetchingParent="DG.InternalControl{A8B78ABA-B97A-4F48-BD73-CB52FBB9280F}" />
+    <Link Source="DG.InternalControl{A8B78ABA-B97A-4F48-BD73-CB52FBB9280F}" Target="(@20)" Category="Contains" FetchingParent="DG.InternalControl{A8B78ABA-B97A-4F48-BD73-CB52FBB9280F}" />
+    <Link Source="DG.InternalControl{A8B78ABA-B97A-4F48-BD73-CB52FBB9280F}" Target="(@3)" Category="Contains" FetchingParent="DG.InternalControl{A8B78ABA-B97A-4F48-BD73-CB52FBB9280F}" />
+    <Link Source="DG.InternalControl{A8B78ABA-B97A-4F48-BD73-CB52FBB9280F}" Target="(@8)" Category="Contains" FetchingParent="DG.InternalControl{A8B78ABA-B97A-4F48-BD73-CB52FBB9280F}" />
+    <Link Source="DG.InternalControl{A8B78ABA-B97A-4F48-BD73-CB52FBB9280F}" Target="DG.Infrastructure{11893C14-91FB-4AA7-AC42-9D76A1520853}" Bounds="-28.424380349417,-188.091977538421,239.397978534515,199.119756067022" />
+    <Link Source="DG.StatutoryCompliance{6DAE4455-6973-4ADC-8AC7-73349CE0DB49}" Target="(@11)" Category="Contains" FetchingParent="DG.StatutoryCompliance{6DAE4455-6973-4ADC-8AC7-73349CE0DB49}" />
+    <Link Source="DG.StatutoryCompliance{6DAE4455-6973-4ADC-8AC7-73349CE0DB49}" Target="(@15)" Category="Contains" FetchingParent="DG.StatutoryCompliance{6DAE4455-6973-4ADC-8AC7-73349CE0DB49}" />
+    <Link Source="DG.StatutoryCompliance{6DAE4455-6973-4ADC-8AC7-73349CE0DB49}" Target="(@19)" Category="Contains" FetchingParent="DG.StatutoryCompliance{6DAE4455-6973-4ADC-8AC7-73349CE0DB49}" />
+    <Link Source="DG.StatutoryCompliance{6DAE4455-6973-4ADC-8AC7-73349CE0DB49}" Target="(@2)" Category="Contains" FetchingParent="DG.StatutoryCompliance{6DAE4455-6973-4ADC-8AC7-73349CE0DB49}" />
+    <Link Source="DG.StatutoryCompliance{6DAE4455-6973-4ADC-8AC7-73349CE0DB49}" Target="(@7)" Category="Contains" FetchingParent="DG.StatutoryCompliance{6DAE4455-6973-4ADC-8AC7-73349CE0DB49}" />
+    <Link Source="DG.StatutoryCompliance{6DAE4455-6973-4ADC-8AC7-73349CE0DB49}" Target="DG.Infrastructure{11893C14-91FB-4AA7-AC42-9D76A1520853}" Bounds="-243.213788102089,-213.72812765625,61.3056251450526,221.83627011122" />
+  </Links>
+  <Categories>
+    <Category Id="CodeMap_SolutionFolder" Label="Solution Folder" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Solution Folder" />
+    <Category Id="CodeMap_WebProject" Label="Web Project" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Web Projects" />
+    <Category Id="CodeSchema_Assembly" Label="Assembly" BasedOn="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Assembly" NavigationActionLabel="Assemblies" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="File" Label="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="Files" />
+    <Category Id="FileSystem.Category.FileOfType.dll" BasedOn="CodeSchema_Assembly" CanBeDataDriven="True" IsProviderRoot="False" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_StrongName" Label="StrongName" Description="StrongName" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedChildNodesState" Label="Delayed Child Nodes State" Description="Unspecified if the delayed child nodes state is not specified. NotFetched if the group contains child nodes that are not fetched into the graph yet. Fetched if the group has all its delayed child nodes already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="DelayedCrossGroupLinksState" Label="Delayed Cross-Group Links State" Description="Unspecified if the delayed cross-group links state is not specified. NotFetched if delayed cross-group links on this node are not fetched into the graph yet. Fetched if all delayed cross-group links have already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FetchingParent" DataType="Microsoft.VisualStudio.GraphModel.GraphNodeId" />
+    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(e41949a0-c018-4798-a7c5-71593f658de7.OutputPathUri)" />
+    <Alias n="2" Uri="Assembly=$(8afbd76f-e773-4af6-8cef-57b21fb63e2a.OutputPathUri)" />
+    <Alias n="3" Uri="Assembly=$(a9d2d07e-4cd5-45fe-ac14-dbc616af8186.OutputPathUri)" />
+    <Alias n="4" Uri="Assembly=$(969f7080-a641-4de8-9866-aa97a29d46a7.OutputPathUri)" />
+    <Alias n="5" Uri="Assembly=$(b421a0cc-baf7-4c42-9fa8-6fdb7abf25f5.OutputPathUri)" />
+    <Alias n="6" Uri="Assembly=$(90f952f9-188e-4b25-9efe-aa8a44232b7c.OutputPathUri)" />
+    <Alias n="7" Uri="Assembly=$(a84cf108-4036-4ef3-9bee-8edaeac446f1.OutputPathUri)" />
+    <Alias n="8" Uri="Assembly=$(4b4f1768-e3f3-4b20-bae3-bb7fa6bcb8b6.OutputPathUri)" />
+    <Alias n="9" Uri="Assembly=$(93b3c0b0-47a8-406e-a000-651600fb99cf.OutputPathUri)" />
+    <Alias n="10" Uri="Assembly=$(bd027aee-6acd-48f0-b26d-998b8769b47f.OutputPathUri)" />
+    <Alias n="11" Uri="Assembly=$(d251d03d-7020-47ba-9258-4d8ae95193d9.OutputPathUri)" />
+    <Alias n="12" Uri="Assembly=$(4bae036b-ac02-44ba-9150-a5844e9b0372.OutputPathUri)" />
+    <Alias n="13" Uri="Assembly=$(ebe5bfa1-0d07-4cc6-a243-5ccfcb4db51e.OutputPathUri)" />
+    <Alias n="14" Uri="Assembly=$(d7efc209-53a6-450f-aac6-50463d6a660c.OutputPathUri)" />
+    <Alias n="15" Uri="Assembly=$(13a9cf66-1972-4efe-9b0d-b486de18241e.OutputPathUri)" />
+    <Alias n="16" Uri="Assembly=$(0e6f9d79-0661-4e3b-8632-511d01de5a64.OutputPathUri)" />
+    <Alias n="17" Uri="Assembly=$(0eefe2d2-6b70-40f7-8a5e-8bf33f6f8cb3.OutputPathUri)" />
+    <Alias n="18" Uri="Assembly=$(b498780f-f823-478d-9235-d616efc72538.OutputPathUri)" />
+    <Alias n="19" Uri="Assembly=$(ac04b6fa-d235-4334-92f1-4f649521601f.OutputPathUri)" />
+    <Alias n="20" Uri="Assembly=$(64e73fec-fda5-425d-b29a-a59cdb270219.OutputPathUri)" />
+    <Alias n="21" Uri="Assembly=$(4857bc80-bcf4-4e51-b84c-cf62301ab93c.OutputPathUri)" />
+    <Alias n="22" Uri="Assembly=$(e17229a4-acdc-49c9-8668-c0b48477a568.OutputPathUri)" />
+    <Alias n="23" Uri="Assembly=$(42e80419-ad4b-4387-ae5e-1e4b986c20c1.OutputPathUri)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Error" ValueLabel="Error Level">
+      <Condition Expression="HasValue('ErrorLevel')" />
+      <Setter Property="Icon" Value="Node.Error" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Test Project" ValueLabel="Test Project">
+      <Condition Expression="HasCategory('CodeMap_TestProject')" />
+      <Setter Property="Icon" Value="CodeMap_TestProject" />
+      <Setter Property="Background" Value="#FF307A69" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Web Project" ValueLabel="Web Project">
+      <Condition Expression="HasCategory('CodeMap_WebProject')" />
+      <Setter Property="Icon" Value="CodeMap_WebProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Windows Store Project" ValueLabel="Windows Store Project">
+      <Condition Expression="HasCategory('CodeMap_WindowsStoreProject')" />
+      <Setter Property="Icon" Value="CodeMap_WindowsStoreProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Phone Project" ValueLabel="Phone Project">
+      <Condition Expression="HasCategory('CodeMap_PhoneProject')" />
+      <Setter Property="Icon" Value="CodeMap_PhoneProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Portable Library" ValueLabel="Portable Library">
+      <Condition Expression="HasCategory('CodeMap_PortableLibraryProject')" />
+      <Setter Property="Icon" Value="CodeMap_PortableLibraryProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="WPF Project" ValueLabel="WPF Project">
+      <Condition Expression="HasCategory('CodeMap_WpfProject')" />
+      <Setter Property="Icon" Value="CodeMap_WpfProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="VSIX Project" ValueLabel="VSIX Project">
+      <Condition Expression="HasCategory('CodeMap_VsixProject')" />
+      <Setter Property="Icon" Value="CodeMap_VsixProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Modeling Project" ValueLabel="Modeling Project">
+      <Condition Expression="HasCategory('CodeMap_ModelingProject')" />
+      <Setter Property="Icon" Value="CodeMap_ModelingProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interface" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeration" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegate" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Class" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Property" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Event" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Field" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="Has category">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True">
+      <Condition Expression="HasCategory('InheritsFrom')" />
+      <Setter Property="Stroke" Value="#FF00A600" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True">
+      <Condition Expression="HasCategory('Implements')" />
+      <Setter Property="Stroke" Value="#8000A600" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Calls" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Calls')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Function Pointer" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FunctionPointer')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Write" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldWrite')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="DrawArrow" Value="true" />
+      <Setter Property="IsHidden" Value="false" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Return" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_ReturnTypeLink')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="References" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('References')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Uses Attribute" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_AttributeUse')" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Solution Folder" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeMap_SolutionFolder')" />
+      <Setter Property="Background" Value="#FFDEBA83" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Project Reference" ValueLabel="Project Reference">
+      <Condition Expression="HasCategory('CodeMap_ProjectReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="External Reference" ValueLabel="External Reference">
+      <Condition Expression="HasCategory('CodeMap_ExternalReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="0e6f9d79-0661-4e3b-8632-511d01de5a64.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalControl\DG.InternalControl.DataAccess\bin\Debug\DG.InternalControl.DataAccess.dll" />
+    <Path Id="0e6f9d79-0661-4e3b-8632-511d01de5a64.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.InternalControl/DG.InternalControl.DataAccess/bin/Debug/DG.InternalControl.DataAccess.dll" />
+    <Path Id="0eefe2d2-6b70-40f7-8a5e-8bf33f6f8cb3.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalAudit\DG.InternalAudit.DataAccess\bin\Debug\DG.InternalAudit.DataAccess.dll" />
+    <Path Id="0eefe2d2-6b70-40f7-8a5e-8bf33f6f8cb3.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.InternalAudit/DG.InternalAudit.DataAccess/bin/Debug/DG.InternalAudit.DataAccess.dll" />
+    <Path Id="13a9cf66-1972-4efe-9b0d-b486de18241e.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.DataAccess\bin\Debug\DG.StatutoryCompliance.DataAccess.dll" />
+    <Path Id="13a9cf66-1972-4efe-9b0d-b486de18241e.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.StatutoryCompliance/DG.StatutoryCompliance.DataAccess/bin/Debug/DG.StatutoryCompliance.DataAccess.dll" />
+    <Path Id="42e80419-ad4b-4387-ae5e-1e4b986c20c1.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Security\bin\Debug\DG.Infrastructure.Security.dll" />
+    <Path Id="42e80419-ad4b-4387-ae5e-1e4b986c20c1.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.Infrastructure/DG.Infrastructure.Security/bin/Debug/DG.Infrastructure.Security.dll" />
+    <Path Id="4857bc80-bcf4-4e51-b84c-cf62301ab93c.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalAudit\DG.InternalAudit.Business\bin\Debug\DG.InternalAudit.Business.dll" />
+    <Path Id="4857bc80-bcf4-4e51-b84c-cf62301ab93c.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.InternalAudit/DG.InternalAudit.Business/bin/Debug/DG.InternalAudit.Business.dll" />
+    <Path Id="4b4f1768-e3f3-4b20-bae3-bb7fa6bcb8b6.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalControl\DG.InternalControl.Interfaces\bin\Debug\DG.InternalControl.Interfaces.dll" />
+    <Path Id="4b4f1768-e3f3-4b20-bae3-bb7fa6bcb8b6.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.InternalControl/DG.InternalControl.Interfaces/bin/Debug/DG.InternalControl.Interfaces.dll" />
+    <Path Id="4bae036b-ac02-44ba-9150-a5844e9b0372.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalControl\DG.InternalControl.Models\bin\Debug\DG.InternalControl.Models.dll" />
+    <Path Id="4bae036b-ac02-44ba-9150-a5844e9b0372.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.InternalControl/DG.InternalControl.Models/bin/Debug/DG.InternalControl.Models.dll" />
+    <Path Id="64e73fec-fda5-425d-b29a-a59cdb270219.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalControl\DG.InternalControl.Business\bin\Debug\DG.InternalControl.Business.dll" />
+    <Path Id="64e73fec-fda5-425d-b29a-a59cdb270219.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.InternalControl/DG.InternalControl.Business/bin/Debug/DG.InternalControl.Business.dll" />
+    <Path Id="8afbd76f-e773-4af6-8cef-57b21fb63e2a.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.API\bin\DG.StatutoryCompliance.API.dll" />
+    <Path Id="8afbd76f-e773-4af6-8cef-57b21fb63e2a.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.StatutoryCompliance/DG.StatutoryCompliance.API/bin/DG.StatutoryCompliance.API.dll" />
+    <Path Id="90f952f9-188e-4b25-9efe-aa8a44232b7c.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Common\bin\Debug\DG.Infrastructure.Common.dll" />
+    <Path Id="90f952f9-188e-4b25-9efe-aa8a44232b7c.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.Infrastructure/DG.Infrastructure.Common/bin/Debug/DG.Infrastructure.Common.dll" />
+    <Path Id="93b3c0b0-47a8-406e-a000-651600fb99cf.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalAudit\DG.InternalAudit.Interfaces\bin\Debug\DG.InternalAudit.Interfaces.dll" />
+    <Path Id="93b3c0b0-47a8-406e-a000-651600fb99cf.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.InternalAudit/DG.InternalAudit.Interfaces/bin/Debug/DG.InternalAudit.Interfaces.dll" />
+    <Path Id="969f7080-a641-4de8-9866-aa97a29d46a7.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalAudit\DG.InternalAudit.API\bin\DG.InternalAudit.API.dll" />
+    <Path Id="969f7080-a641-4de8-9866-aa97a29d46a7.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.InternalAudit/DG.InternalAudit.API/bin/DG.InternalAudit.API.dll" />
+    <Path Id="a84cf108-4036-4ef3-9bee-8edaeac446f1.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.Interfaces\bin\Debug\DG.StatutoryCompliance.Interfaces.dll" />
+    <Path Id="a84cf108-4036-4ef3-9bee-8edaeac446f1.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.StatutoryCompliance/DG.StatutoryCompliance.Interfaces/bin/Debug/DG.StatutoryCompliance.Interfaces.dll" />
+    <Path Id="a9d2d07e-4cd5-45fe-ac14-dbc616af8186.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalControl\DG.InternalControl.API\bin\DG.InternalControl.API.dll" />
+    <Path Id="a9d2d07e-4cd5-45fe-ac14-dbc616af8186.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.InternalControl/DG.InternalControl.API/bin/DG.InternalControl.API.dll" />
+    <Path Id="ac04b6fa-d235-4334-92f1-4f649521601f.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.Business\bin\Debug\DG.StatutoryCompliance.Business.dll" />
+    <Path Id="ac04b6fa-d235-4334-92f1-4f649521601f.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.StatutoryCompliance/DG.StatutoryCompliance.Business/bin/Debug/DG.StatutoryCompliance.Business.dll" />
+    <Path Id="b421a0cc-baf7-4c42-9fa8-6fdb7abf25f5.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.API\bin\DG.ContractManagement.API.dll" />
+    <Path Id="b421a0cc-baf7-4c42-9fa8-6fdb7abf25f5.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.ContractManagement/DG.ContractManagement.API/bin/DG.ContractManagement.API.dll" />
+    <Path Id="b498780f-f823-478d-9235-d616efc72538.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\bin\Debug\DG.ContractManagement.DataAccess.dll" />
+    <Path Id="b498780f-f823-478d-9235-d616efc72538.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.ContractManagement/DG.ContractManagement.DataAccess/bin/Debug/DG.ContractManagement.DataAccess.dll" />
+    <Path Id="bd027aee-6acd-48f0-b26d-998b8769b47f.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.Interfaces\bin\Debug\DG.ContractManagement.Interfaces.dll" />
+    <Path Id="bd027aee-6acd-48f0-b26d-998b8769b47f.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.ContractManagement/DG.ContractManagement.Interfaces/bin/Debug/DG.ContractManagement.Interfaces.dll" />
+    <Path Id="d251d03d-7020-47ba-9258-4d8ae95193d9.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.Models\bin\Debug\DG.StatutoryCompliance.Models.dll" />
+    <Path Id="d251d03d-7020-47ba-9258-4d8ae95193d9.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.StatutoryCompliance/DG.StatutoryCompliance.Models/bin/Debug/DG.StatutoryCompliance.Models.dll" />
+    <Path Id="d7efc209-53a6-450f-aac6-50463d6a660c.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.Models\bin\Debug\DG.ContractManagement.Models.dll" />
+    <Path Id="d7efc209-53a6-450f-aac6-50463d6a660c.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.ContractManagement/DG.ContractManagement.Models/bin/Debug/DG.ContractManagement.Models.dll" />
+    <Path Id="e17229a4-acdc-49c9-8668-c0b48477a568.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.Business\bin\Debug\DG.ContractManagement.Business.dll" />
+    <Path Id="e17229a4-acdc-49c9-8668-c0b48477a568.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.ContractManagement/DG.ContractManagement.Business/bin/Debug/DG.ContractManagement.Business.dll" />
+    <Path Id="e41949a0-c018-4798-a7c5-71593f658de7.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Database\bin\Debug\DG.Infrastructure.Core.dll" />
+    <Path Id="e41949a0-c018-4798-a7c5-71593f658de7.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.Infrastructure/DG.Infrastructure.Database/bin/Debug/DG.Infrastructure.Core.dll" />
+    <Path Id="ebe5bfa1-0d07-4cc6-a243-5ccfcb4db51e.OutputPath" Value="D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalAudit\DG.InternalAudit.Models\bin\Debug\DG.InternalAudit.Models.dll" />
+    <Path Id="ebe5bfa1-0d07-4cc6-a243-5ccfcb4db51e.OutputPathUri" Value="file:///D:/Development/DreamGovernance/DreamGovernance.Server/DG.InternalAudit/DG.InternalAudit.Models/bin/Debug/DG.InternalAudit.Models.dll" />
+  </Paths>
+</DirectedGraph>

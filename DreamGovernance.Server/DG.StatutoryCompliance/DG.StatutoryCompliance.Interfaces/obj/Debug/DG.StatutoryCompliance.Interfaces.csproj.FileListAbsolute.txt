@@ -1,0 +1,4 @@
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.Interfaces\bin\Debug\DG.StatutoryCompliance.Interfaces.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.Interfaces\bin\Debug\DG.StatutoryCompliance.Interfaces.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.Interfaces\obj\Debug\DG.StatutoryCompliance.Interfaces.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.Interfaces\obj\Debug\DG.StatutoryCompliance.Interfaces.pdb

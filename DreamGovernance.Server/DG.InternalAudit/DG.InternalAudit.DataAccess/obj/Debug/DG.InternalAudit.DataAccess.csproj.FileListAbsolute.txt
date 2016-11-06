@@ -1,0 +1,4 @@
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalAudit\DG.InternalAudit.DataAccess\bin\Debug\DG.InternalAudit.DataAccess.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalAudit\DG.InternalAudit.DataAccess\bin\Debug\DG.InternalAudit.DataAccess.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalAudit\DG.InternalAudit.DataAccess\obj\Debug\DG.InternalAudit.DataAccess.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalAudit\DG.InternalAudit.DataAccess\obj\Debug\DG.InternalAudit.DataAccess.pdb

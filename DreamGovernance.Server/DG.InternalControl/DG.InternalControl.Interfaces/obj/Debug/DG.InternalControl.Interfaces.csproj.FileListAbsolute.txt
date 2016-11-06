@@ -1,0 +1,4 @@
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalControl\DG.InternalControl.Interfaces\bin\Debug\DG.InternalControl.Interfaces.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalControl\DG.InternalControl.Interfaces\bin\Debug\DG.InternalControl.Interfaces.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalControl\DG.InternalControl.Interfaces\obj\Debug\DG.InternalControl.Interfaces.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalControl\DG.InternalControl.Interfaces\obj\Debug\DG.InternalControl.Interfaces.pdb

@@ -1,0 +1,8 @@
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Database\bin\Debug\DG.Infrastructure.Core.dll
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Database\bin\Debug\DG.Infrastructure.Core.pdb
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Database\obj\Debug\DG.Infrastructure.Core.dll
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Database\obj\Debug\DG.Infrastructure.Core.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Database\bin\Debug\DG.Infrastructure.Core.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Database\bin\Debug\DG.Infrastructure.Core.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Database\obj\Debug\DG.Infrastructure.Core.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.Infrastructure\DG.Infrastructure.Database\obj\Debug\DG.Infrastructure.Core.pdb

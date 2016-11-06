@@ -1,0 +1,4 @@
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.Models\bin\Debug\DG.StatutoryCompliance.Models.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.Models\bin\Debug\DG.StatutoryCompliance.Models.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.Models\obj\Debug\DG.StatutoryCompliance.Models.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.StatutoryCompliance\DG.StatutoryCompliance.Models\obj\Debug\DG.StatutoryCompliance.Models.pdb

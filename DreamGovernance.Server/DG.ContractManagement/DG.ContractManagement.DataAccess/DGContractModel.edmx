@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="dg_contractmgmtModel.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.7" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="contract_documents">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="contractid" Type="int" />
+          <Property Name="docfilepath" Type="varchar" MaxLength="300" />
+          <Property Name="docbase64" Type="longtext" />
+          <Property Name="createddate" Type="datetime" Precision="0" />
+          <Property Name="modifieddate" Type="datetime" Precision="0" />
+          <Property Name="versionno" Type="int" />
+        </EntityType>
+        <EntityType Name="contracts">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="contract_title" Type="varchar" MaxLength="100" />
+          <Property Name="vendorid" Type="int" />
+          <Property Name="startdate" Type="datetime" Precision="0" />
+          <Property Name="enddate" Type="datetime" Precision="0" />
+          <Property Name="description" Type="varchar" MaxLength="400" />
+          <Property Name="annualrenewaldate" Type="datetime" Precision="0" />
+          <Property Name="procereviewdate" Type="datetime" Precision="0" />
+          <Property Name="contracttype" Type="varchar" MaxLength="100" />
+          <Property Name="contractamount" Type="decimal" Precision="10" Scale="0" />
+          <Property Name="monthlycost" Type="decimal" Precision="10" Scale="0" />
+          <Property Name="currentcost" Type="decimal" Precision="10" Scale="0" />
+          <Property Name="department" Type="varchar" MaxLength="450" />
+          <Property Name="location" Type="varchar" MaxLength="200" />
+          <Property Name="contractmanagername" Type="varchar" MaxLength="45" />
+          <Property Name="contractmanageremail" Type="varchar" MaxLength="45" />
+          <Property Name="contractmanagerphone" Type="varchar" MaxLength="45" />
+          <Property Name="createduser" Type="varchar" MaxLength="45" />
+          <Property Name="createddate" Type="datetime" Precision="0" />
+          <Property Name="modifieddate" Type="datetime" Precision="0" />
+        </EntityType>
+        <EntityContainer Name="dg_contractmgmtModelStoreContainer">
+          <EntitySet Name="contract_documents" EntityType="Self.contract_documents" Schema="dg_contractmgmt" store:Type="Tables" />
+          <EntitySet Name="contracts" EntityType="Self.contracts" Schema="dg_contractmgmt" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="dg_contractmgmtModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="contract_documents">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="contractid" Type="Int32" />
+          <Property Name="docfilepath" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="docbase64" Type="String" MaxLength="1073741823" FixedLength="false" Unicode="false" />
+          <Property Name="createddate" Type="DateTime" />
+          <Property Name="modifieddate" Type="DateTime" />
+          <Property Name="versionno" Type="Int32" />
+        </EntityType>
+        <EntityType Name="contract">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="contract_title" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="vendorid" Type="Int32" />
+          <Property Name="startdate" Type="DateTime" />
+          <Property Name="enddate" Type="DateTime" />
+          <Property Name="description" Type="String" MaxLength="400" FixedLength="false" Unicode="false" />
+          <Property Name="annualrenewaldate" Type="DateTime" />
+          <Property Name="procereviewdate" Type="DateTime" />
+          <Property Name="contracttype" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="contractamount" Type="Decimal" />
+          <Property Name="monthlycost" Type="Decimal" />
+          <Property Name="currentcost" Type="Decimal" />
+          <Property Name="department" Type="String" MaxLength="450" FixedLength="false" Unicode="false" />
+          <Property Name="location" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Name="contractmanagername" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+          <Property Name="contractmanageremail" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+          <Property Name="contractmanagerphone" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+          <Property Name="createduser" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+          <Property Name="createddate" Type="DateTime" />
+          <Property Name="modifieddate" Type="DateTime" />
+        </EntityType>
+        <EntityContainer Name="dg_contractmgmtEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="contract_documents" EntityType="Self.contract_documents" />
+          <EntitySet Name="contracts" EntityType="Self.contract" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="dg_contractmgmtModelStoreContainer" CdmEntityContainer="dg_contractmgmtEntities">
+          <EntitySetMapping Name="contract_documents">
+            <EntityTypeMapping TypeName="dg_contractmgmtModel.contract_documents">
+              <MappingFragment StoreEntitySet="contract_documents">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="contractid" ColumnName="contractid" />
+                <ScalarProperty Name="docfilepath" ColumnName="docfilepath" />
+                <ScalarProperty Name="docbase64" ColumnName="docbase64" />
+                <ScalarProperty Name="createddate" ColumnName="createddate" />
+                <ScalarProperty Name="modifieddate" ColumnName="modifieddate" />
+                <ScalarProperty Name="versionno" ColumnName="versionno" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="contracts">
+            <EntityTypeMapping TypeName="dg_contractmgmtModel.contract">
+              <MappingFragment StoreEntitySet="contracts">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="contract_title" ColumnName="contract_title" />
+                <ScalarProperty Name="vendorid" ColumnName="vendorid" />
+                <ScalarProperty Name="startdate" ColumnName="startdate" />
+                <ScalarProperty Name="enddate" ColumnName="enddate" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="annualrenewaldate" ColumnName="annualrenewaldate" />
+                <ScalarProperty Name="procereviewdate" ColumnName="procereviewdate" />
+                <ScalarProperty Name="contracttype" ColumnName="contracttype" />
+                <ScalarProperty Name="contractamount" ColumnName="contractamount" />
+                <ScalarProperty Name="monthlycost" ColumnName="monthlycost" />
+                <ScalarProperty Name="currentcost" ColumnName="currentcost" />
+                <ScalarProperty Name="department" ColumnName="department" />
+                <ScalarProperty Name="location" ColumnName="location" />
+                <ScalarProperty Name="contractmanagername" ColumnName="contractmanagername" />
+                <ScalarProperty Name="contractmanageremail" ColumnName="contractmanageremail" />
+                <ScalarProperty Name="contractmanagerphone" ColumnName="contractmanagerphone" />
+                <ScalarProperty Name="createduser" ColumnName="createduser" />
+                <ScalarProperty Name="createddate" ColumnName="createddate" />
+                <ScalarProperty Name="modifieddate" ColumnName="modifieddate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

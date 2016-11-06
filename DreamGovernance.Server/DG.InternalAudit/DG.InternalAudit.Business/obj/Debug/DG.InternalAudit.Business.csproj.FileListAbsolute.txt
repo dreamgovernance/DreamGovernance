@@ -1,0 +1,4 @@
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalAudit\DG.InternalAudit.Business\bin\Debug\DG.InternalAudit.Business.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalAudit\DG.InternalAudit.Business\bin\Debug\DG.InternalAudit.Business.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalAudit\DG.InternalAudit.Business\obj\Debug\DG.InternalAudit.Business.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.InternalAudit\DG.InternalAudit.Business\obj\Debug\DG.InternalAudit.Business.pdb

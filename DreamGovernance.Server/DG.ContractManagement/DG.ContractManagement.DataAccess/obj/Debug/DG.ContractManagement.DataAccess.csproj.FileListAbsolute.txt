@@ -1,0 +1,16 @@
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\bin\Debug\DG.ContractManagement.DataAccess.dll
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\bin\Debug\DG.ContractManagement.DataAccess.pdb
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\obj\Debug\DG.ContractManagement.DataAccess.dll
+D:\Development\DreamGovernance\Client\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\obj\Debug\DG.ContractManagement.DataAccess.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\bin\Debug\DG.ContractManagement.DataAccess.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\bin\Debug\DG.ContractManagement.DataAccess.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\obj\Debug\DG.ContractManagement.DataAccess.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\obj\Debug\DG.ContractManagement.DataAccess.pdb
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\bin\Debug\DG.ContractManagement.DataAccess.dll.config
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\bin\Debug\EntityFramework.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\bin\Debug\MySql.Data.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\bin\Debug\EntityFramework.xml
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\DreamGovernance\DreamGovernance.Server\DG.ContractManagement\DG.ContractManagement.DataAccess\obj\Debug\DG.ContractManagement.DataAccess.csprojResolveAssemblyReference.cache
